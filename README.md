@@ -43,7 +43,20 @@ Please read [CONTRIBUTING.md](https://github.com/dominiconorton/coronavirus-comm
 
 ## Authors
 
-<img src="https://dominiconorton-images.s3-eu-west-1.amazonaws.com/IMG_0638.jpg" width="18%"></img> <img src="https://dominiconorton-images.s3-eu-west-1.amazonaws.com/Monique+Ho.jpeg" width="18%"></img> 
+<figure>
+  <img src="https://dominiconorton-images.s3-eu-west-1.amazonaws.com/IMG_0638.jpg" width="18%">
+  <figcaption>Dominic Norton</figcaption>
+</figure>
+
+<figure>
+  <img src="https://dominiconorton-images.s3-eu-west-1.amazonaws.com/Monique+Ho.jpeg" width="18%">
+  <figcaption>Monique Ho</figcaption>
+</figure>
+
+
+
+
+
 
 ## Resources
 
