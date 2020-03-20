@@ -47,10 +47,7 @@ Please read [CONTRIBUTING.md](https://github.com/dominiconorton/coronavirus-comm
 ## Authors
 
 <p float="left">
-  <img src="https://covid-19-response.s3.eu-west-2.amazonaws.com/Dominic+Norton.jpg" alt="Dominico Norton" width="18%" />
-    <p>Dominico Norton</p><img src="https://covid-19-response.s3.eu-west-2.amazonaws.com/Monique+Ho.jpg" alt="Monique Ho" width="18%" />
-    <p>Monique Ho</p><img src="https://covid-19-response.s3.eu-west-2.amazonaws.com/placeholder.jpg" alt="James Kaguima" width="18%" />
-    <p>James Kaguima</p>
+  <img src="https://covid-19-response.s3.eu-west-2.amazonaws.com/Dominic+Norton.jpg" alt="Dominico Norton" width="18%" /><p>Dominico Norton</p><img src="https://covid-19-response.s3.eu-west-2.amazonaws.com/Monique+Ho.jpg" alt="Monique Ho" width="18%" /><p>Monique Ho</p><img src="https://covid-19-response.s3.eu-west-2.amazonaws.com/placeholder.jpg" alt="James Kaguima" width="18%" /><p>James Kaguima</p>
 </p>
 
 ## Resources
