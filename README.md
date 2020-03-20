@@ -46,7 +46,98 @@ Please read [CONTRIBUTING.md](https://github.com/dominiconorton/coronavirus-comm
 
 ## Authors
 
-<img src="https://covid-19-response.s3.eu-west-2.amazonaws.com/Dominic+Norton.jpg" alt="Dominico Norton" width="18%"></img><img src="https://covid-19-response.s3.eu-west-2.amazonaws.com/Monique+Ho.jpg" alt="Monique Ho" width="18%"></img><img src="https://covid-19-response.s3.eu-west-2.amazonaws.com/placeholder.jpg" alt="James Kaguima" width="18%"></img></img><img src="https://covid-19-response.s3.eu-west-2.amazonaws.com/placeholder.jpg" alt="Markus Pilkington" width="18%"></img></img><img src="https://covid-19-response.s3.eu-west-2.amazonaws.com/placeholder.jpg" alt="Kieron Scully" width="18%"></img><img src="https://covid-19-response.s3.eu-west-2.amazonaws.com/placeholder.jpg" alt=">Oluwaseun Adebambo" width="18%"></img></img><img src="https://covid-19-response.s3.eu-west-2.amazonaws.com/placeholder.jpg" alt="Tejiri Matthew" width="18%"></img></img><img src="https://covid-19-response.s3.eu-west-2.amazonaws.com/placeholder.jpg" alt=">Benjamin Ikeji" width="18%"></img></img><img src="https://covid-19-response.s3.eu-west-2.amazonaws.com/Paul+Wennekes.jpg" alt="Paul Wennekes" width="18%"></img>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <title>Bootstrap Example</title>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/css/bootstrap.min.css">
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
+  <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/js/bootstrap.min.js"></script>
+</head>
+<body>
+
+<div class="container">
+  <h2>Authors</h2>
+  <div class="row">
+    <div class="col-md-4">
+      <div class="thumbnail">
+          <img src="https://covid-19-response.s3.eu-west-2.amazonaws.com/Dominic+Norton.jpg" alt="Dominico Norton">
+          <div class="caption">
+            <p>Dominico Norton</p>
+          </div>
+      </div>
+    </div>
+    <div class="col-md-4">
+      <div class="thumbnail">
+          <img src="https://covid-19-response.s3.eu-west-2.amazonaws.com/Monique+Ho.jpg" alt="Monique Ho">
+          <div class="caption">
+            <p>Monique Ho</p>
+          </div>
+      </div>
+    </div>
+    <div class="col-md-4">
+      <div class="thumbnail">
+          <img src="https://covid-19-response.s3.eu-west-2.amazonaws.com/placeholder.jpg" alt="James Kaguima">
+          <div class="caption">
+            <p>James Kaguima</p>
+          </div>
+      </div>
+    </div>
+    <div class="col-md-4">
+      <div class="thumbnail">
+          <img src="https://covid-19-response.s3.eu-west-2.amazonaws.com/placeholder.jpg" alt="Markus Pilkington">
+          <div class="caption">
+            <p>Markus Pilkington</p>
+          </div>
+      </div>
+    </div>
+    <div class="col-md-4">
+      <div class="thumbnail">
+          <img src="https://covid-19-response.s3.eu-west-2.amazonaws.com/placeholder.jpg" alt="Kieron Scully">
+          <div class="caption">
+            <p>Kieron Scully</p>
+          </div>
+      </div>
+    </div>
+    <div class="col-md-4">
+      <div class="thumbnail">
+          <img src="https://covid-19-response.s3.eu-west-2.amazonaws.com/placeholder.jpg" alt="Oluwaseun Adebambo">
+          <div class="caption">
+            <p>Oluwaseun Adebambo</p>
+          </div>
+      </div>
+    </div>
+    <div class="col-md-4">
+      <div class="thumbnail">
+          <img src="https://covid-19-response.s3.eu-west-2.amazonaws.com/placeholder.jpg" alt="Tejiri Matthew">
+          <div class="caption">
+            <p>Tejiri Matthew</p>
+          </div>
+      </div>
+    </div>
+    <div class="col-md-4">
+      <div class="thumbnail">
+          <img src="https://covid-19-response.s3.eu-west-2.amazonaws.com/placeholder.jpg" alt="Benjamin Ikeji" style="width:18%">
+          <div class="caption">
+            <p>Benjamin Ikeji</p>
+          </div>
+      </div>
+    </div>
+    <div class="col-md-4">
+      <div class="thumbnail">
+          <img src="https://covid-19-response.s3.eu-west-2.amazonaws.com/Paul+Wennekes.jpg" alt="Paul Wennekes" style="width:18%">
+          <div class="caption">
+            <p>Paul Wennekes</p>
+          </div>
+      </div>
+    </div>
+  </div>
+</div>
+
+</body>
+</html>
 
 ## Resources
 
