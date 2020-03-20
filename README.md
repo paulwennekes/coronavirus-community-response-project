@@ -34,6 +34,9 @@ Table of contents
 
 ## Built With
 
+[Glide](https://go.glideapps.com/)<br/>
+[Twilio Autopilot](https://www.twilio.com/autopilot)
+
 ## Contributing
 
 Please read [CONTRIBUTING.md](https://github.com/dominiconorton/coronavirus-community-response-project/blob/master/CONTRIBUTING.md) for details on our code of conduct, and the process for submitting pull requests to us.
@@ -43,20 +46,30 @@ Please read [CONTRIBUTING.md](https://github.com/dominiconorton/coronavirus-comm
 
 ## Authors
 
-<figure>
-  <img src="https://dominiconorton-images.s3-eu-west-1.amazonaws.com/IMG_0638.jpg" width="18%">
-  <figcaption>Dominic Norton</figcaption>
-</figure>
+<div id="images">
+    <a href="http://xyz.com/hello">
+        <img src="s3://covid-19-response/Dominic Norton.jpg" width="18%">
+        <div class="caption">Caption 1</div>
+    </a>
+    <a href="http://xyz.com/hi">
+        <img src="s3://covid-19-response/Monique Ho.jpg" width="18%"> 
+        <div class="caption">Caption 2</div>
+    </a>
+    <a href="http://xyz.com/hi">
+        <img src="s3://covid-19-response/placeholder.jpg" width="18%"> 
+        <div class="caption">Caption 2</div>
+    </a>
+    <a href="http://xyz.com/hi">
+        <img src="s3://covid-19-response/Paul Wennekes.jpg" width="18%"> 
+        <div class="caption">Caption 2</div>
+    </a>
+</div>
 
-<figure>
-  <img src="https://dominiconorton-images.s3-eu-west-1.amazonaws.com/Monique+Ho.jpeg" width="18%">
-  <figcaption>Monique Ho</figcaption>
-</figure>
 
 
 
 
-
+<img src="https://dominiconorton-images.s3-eu-west-1.amazonaws.com/IMG_0638.jpg" width="18%"></img> <img src="https://dominiconorton-images.s3-eu-west-1.amazonaws.com/Monique+Ho.jpeg" width="18%"></img> 
 
 ## Resources
 
