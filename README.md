@@ -46,7 +46,7 @@ Please read [CONTRIBUTING.md](https://github.com/dominiconorton/coronavirus-comm
 
 ## Authors
 
-| [](https://covid-19-response.s3.eu-west-2.amazonaws.com/Dominic+Norton.jpg) | [](https://covid-19-response.s3.eu-west-2.amazonaws.com/Monique+Ho.jpg) | ![](https://covid-19-response.s3.eu-west-2.amazonaws.com/placeholder.jpg) |  ![](https://covid-19-response.s3.eu-west-2.amazonaws.com/placeholder.jpg) |  ![](https://covid-19-response.s3.eu-west-2.amazonaws.com/placeholder.jpg) |  ![](https://covid-19-response.s3.eu-west-2.amazonaws.com/placeholder.jpg) >
+| <img src="https://covid-19-response.s3.eu-west-2.amazonaws.com/Dominic+Norton.jpg" alt="Dominico Norton" width="18%"><p>Dominico Norton</p></img> |  | [](https://covid-19-response.s3.eu-west-2.amazonaws.com/Monique+Ho.jpg) | ![](https://covid-19-response.s3.eu-west-2.amazonaws.com/placeholder.jpg) |  ![](https://covid-19-response.s3.eu-west-2.amazonaws.com/placeholder.jpg) |  ![](https://covid-19-response.s3.eu-west-2.amazonaws.com/placeholder.jpg) |  ![](https://covid-19-response.s3.eu-west-2.amazonaws.com/placeholder.jpg) >
 |:---:|:---:|:---:|:---:|:---:|:---:|
 | Dominico Norton | Monique Ho | James Kaguira | Markus Pilkington | Kieron Scully | Oluwaseun Adebambo |
 
