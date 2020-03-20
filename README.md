@@ -46,50 +46,7 @@ Please read [CONTRIBUTING.md](https://github.com/dominiconorton/coronavirus-comm
 
 ## Authors
 
-<div id="images">
-    <a href="http://xyz.com/hello">
-        <img src="s3://covid-19-response/Dominic Norton.jpg" width="18%">
-        <div class="caption">Dominic Norton</div>
-    </a>
-    <a href="http://xyz.com/hi">
-        <img src="s3://covid-19-response/Monique Ho.jpg" width="18%"> 
-        <div class="caption">Monique Ho</div>
-    </a>
-    <a href="http://xyz.com/hi">
-        <img src="s3://covid-19-response/placeholder.jpg" width="18%"> 
-        <div class="caption">James Kaguima</div>
-    </a>
-    <a href="http://xyz.com/hi">
-        <img src="s3://covid-19-response/placeholder.jpg" width="18%"> 
-        <div class="caption">Kieron Scully</div>
-    </a>
-    <a href="http://xyz.com/hi">
-        <img src="s3://covid-19-response/placeholder.jpg" width="18%"> 
-        <div class="caption">Markus Pilkington</div>
-    </a>
-    <a href="http://xyz.com/hi">
-        <img src="s3://covid-19-response/placeholder.jpg" width="18%"> 
-        <div class="caption">Oluwaseun Adebambo</div>
-    </a>
-    <a href="http://xyz.com/hi">
-        <img src="s3://covid-19-response/placeholder.jpg" width="18%"> 
-        <div class="caption">Tejiri Matthew</div>
-    </a>
-    <a href="http://xyz.com/hi">
-        <img src="s3://covid-19-response/placeholder.jpg" width="18%"> 
-        <div class="caption">Benjamin Ikeji</div>
-    </a>
-    <a href="http://xyz.com/hi">
-        <img src="s3://covid-19-response/Paul Wennekes.jpg" width="18%"> 
-        <div class="caption">Paul Wennekes</div>
-    </a>
-</div>
-
-
-
-
-
-<img src="https://dominiconorton-images.s3-eu-west-1.amazonaws.com/IMG_0638.jpg" width="18%"></img> <img src="https://dominiconorton-images.s3-eu-west-1.amazonaws.com/Monique+Ho.jpeg" width="18%"></img> 
+<img src="s3://covid-19-response/Dominic Norton.jpg" alt="Dominico Norton" width="18%"></img><img src="s3://covid-19-response/Monique Ho.jpg" alt="Monique Ho" width="18%"></img><img src="s3://covid-19-response/placeholder.jpg" alt="James Kaguima" width="18%"></img></img><img src="s3://covid-19-response/placeholder.jpg" alt="Markus Pilkington" width="18%"></img></img><img src="s3://covid-19-response/placeholder.jpg" alt="Kieron Scully" width="18%"></img><img src="s3://covid-19-response/placeholder.jpg" alt=">Oluwaseun Adebambo" width="18%"></img></img><img src="s3://covid-19-response/placeholder.jpg" alt="Tejiri Matthew" width="18%"></img></img><img src="s3://covid-19-response/placeholder.jpg" alt=">Benjamin Ikeji" width="18%"></img></img><img src="s3://covid-19-response/Paul Wennekes.jpg" alt="Paul Wennekes" width="18%"></img>
 
 ## Resources
 
