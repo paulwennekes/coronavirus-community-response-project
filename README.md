@@ -107,7 +107,7 @@ Please read [CONTRIBUTING.md](https://github.com/dominiconorton/coronavirus-comm
     </div>
     <div class="col-md-4">
       <div class="thumbnail">
-          <img src="https://covid-19-response.s3.eu-west-2.amazonaws.com/placeholder.jpg" alt="Benjamin Ikeji" style="width:18%">
+          <img src="https://covid-19-response.s3.eu-west-2.amazonaws.com/placeholder.jpg" alt="Benjamin Ikeji" style="width=18%">
           <div class="caption">
             <p>Benjamin Ikeji</p>
           </div>
@@ -115,7 +115,7 @@ Please read [CONTRIBUTING.md](https://github.com/dominiconorton/coronavirus-comm
     </div>
     <div class="col-md-4">
       <div class="thumbnail">
-          <img src="https://covid-19-response.s3.eu-west-2.amazonaws.com/Paul+Wennekes.jpg" alt="Paul Wennekes" style="width:18%">
+          <img src="https://covid-19-response.s3.eu-west-2.amazonaws.com/Paul+Wennekes.jpg" alt="Paul Wennekes" style="width=18%">
           <div class="caption">
             <p>Paul Wennekes</p>
           </div>
@@ -124,8 +124,6 @@ Please read [CONTRIBUTING.md](https://github.com/dominiconorton/coronavirus-comm
   </div>
 </div>
 
-</body>
-</html>
 
 ## Resources
 
