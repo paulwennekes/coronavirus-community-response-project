@@ -46,7 +46,7 @@ Please read [CONTRIBUTING.md](https://github.com/dominiconorton/coronavirus-comm
 
 ## Authors
 
-| <img src="https://covid-19-response.s3.eu-west-2.amazonaws.com/Dominic+Norton.jpg" alt="Dominico Norton" width="18%" /> | <img src="https://covid-19-response.s3.eu-west-2.amazonaws.com/Monique+Ho.jpg" alt="Monique Ho" width="18%" /> | <img src="https://covid-19-response.s3.eu-west-2.amazonaws.com/placeholder.jpg" alt="James Kaguima" width="18%" /> |  <img src="https://covid-19-response.s3.eu-west-2.amazonaws.com/placeholder.jpg" alt="Markus Pilkington" width="18%" /> |  <img src="https://covid-19-response.s3.eu-west-2.amazonaws.com/placeholder.jpg" alt="Kieron Scully" width="18%" /> |  <img src="https://covid-19-response.s3.eu-west-2.amazonaws.com/placeholder.jpg" alt="Oluwaseun Adebambo" width="18%" />
+| <img src="https://covid-19-response.s3.eu-west-2.amazonaws.com/Dominic+Norton.jpg" alt="Dominico Norton" /> | <img src="https://covid-19-response.s3.eu-west-2.amazonaws.com/Monique+Ho.jpg" alt="Monique Ho" /> | <img src="https://covid-19-response.s3.eu-west-2.amazonaws.com/placeholder.jpg" alt="James Kaguima" /> |  <img src="https://covid-19-response.s3.eu-west-2.amazonaws.com/placeholder.jpg" alt="Markus Pilkington" /> |  <img src="https://covid-19-response.s3.eu-west-2.amazonaws.com/placeholder.jpg" alt="Kieron Scully" /> |  <img src="https://covid-19-response.s3.eu-west-2.amazonaws.com/placeholder.jpg" alt="Oluwaseun Adebambo" />
 |:---:|:---:|:---:|:---:|:---:|:---:|
 | Dominico Norton | Monique Ho | James Kaguira | Markus Pilkington | Kieron Scully | Oluwaseun Adebambo |
 
