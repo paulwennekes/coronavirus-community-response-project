@@ -46,7 +46,7 @@ Please read [CONTRIBUTING.md](https://github.com/dominiconorton/coronavirus-comm
 
 ## Authors
 
-<img src="s3://covid-19-response/Dominic Norton.jpg" alt="Dominico Norton" width="18%"></img><img src="s3://covid-19-response/Monique Ho.jpg" alt="Monique Ho" width="18%"></img><img src="s3://covid-19-response/placeholder.jpg" alt="James Kaguima" width="18%"></img></img><img src="s3://covid-19-response/placeholder.jpg" alt="Markus Pilkington" width="18%"></img></img><img src="s3://covid-19-response/placeholder.jpg" alt="Kieron Scully" width="18%"></img><img src="s3://covid-19-response/placeholder.jpg" alt=">Oluwaseun Adebambo" width="18%"></img></img><img src="s3://covid-19-response/placeholder.jpg" alt="Tejiri Matthew" width="18%"></img></img><img src="s3://covid-19-response/placeholder.jpg" alt=">Benjamin Ikeji" width="18%"></img></img><img src="s3://covid-19-response/Paul Wennekes.jpg" alt="Paul Wennekes" width="18%"></img>
+<img src="s3://covid-19-response/Dominic Norton.jpg" width="18%"></img><img src="s3://covid-19-response/Monique Ho.jpg" width="18%"></img><img src="s3://covid-19-response/placeholder.jpg" width="18%"></img></img><img src="s3://covid-19-response/placeholder.jpg" width="18%"></img></img><img src="s3://covid-19-response/placeholder.jpg" width="18%"></img><img src="s3://covid-19-response/placeholder.jpg" width="18%"></img></img><img src="s3://covid-19-response/placeholder.jpg" width="18%"></img></img><img src="s3://covid-19-response/placeholder.jpg" width="18%"></img></img><img src="s3://covid-19-response/Paul Wennekes.jpg" width="18%"></img>
 
 ## Resources
 
