@@ -49,19 +49,39 @@ Please read [CONTRIBUTING.md](https://github.com/dominiconorton/coronavirus-comm
 <div id="images">
     <a href="http://xyz.com/hello">
         <img src="s3://covid-19-response/Dominic Norton.jpg" width="18%">
-        <div class="caption">Caption 1</div>
+        <div class="caption">Dominic Norton</div>
     </a>
     <a href="http://xyz.com/hi">
         <img src="s3://covid-19-response/Monique Ho.jpg" width="18%"> 
-        <div class="caption">Caption 2</div>
+        <div class="caption">Monique Ho</div>
     </a>
     <a href="http://xyz.com/hi">
         <img src="s3://covid-19-response/placeholder.jpg" width="18%"> 
-        <div class="caption">Caption 2</div>
+        <div class="caption">James Kaguima</div>
+    </a>
+    <a href="http://xyz.com/hi">
+        <img src="s3://covid-19-response/placeholder.jpg" width="18%"> 
+        <div class="caption">Kieron Scully</div>
+    </a>
+    <a href="http://xyz.com/hi">
+        <img src="s3://covid-19-response/placeholder.jpg" width="18%"> 
+        <div class="caption">Markus Pilkington</div>
+    </a>
+    <a href="http://xyz.com/hi">
+        <img src="s3://covid-19-response/placeholder.jpg" width="18%"> 
+        <div class="caption">Oluwaseun Adebambo</div>
+    </a>
+    <a href="http://xyz.com/hi">
+        <img src="s3://covid-19-response/placeholder.jpg" width="18%"> 
+        <div class="caption">Tejiri Matthew</div>
+    </a>
+    <a href="http://xyz.com/hi">
+        <img src="s3://covid-19-response/placeholder.jpg" width="18%"> 
+        <div class="caption">Benjamin Ikeji</div>
     </a>
     <a href="http://xyz.com/hi">
         <img src="s3://covid-19-response/Paul Wennekes.jpg" width="18%"> 
-        <div class="caption">Caption 2</div>
+        <div class="caption">Paul Wennekes</div>
     </a>
 </div>
 
