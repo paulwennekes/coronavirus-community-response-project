@@ -46,11 +46,8 @@ Please read [CONTRIBUTING.md](https://github.com/dominiconorton/coronavirus-comm
 
 ## Authors
 
-| <a>**Dominic Norton**</a> | <a>**Monique Ho**</a> | <a>**James Kaguima**</a> | <a>**Markus Pilkington**</a> | <a>**Kieron Scully**</a> |
-| :---: |:---:| :---:|:---:| :---:|
-| ![](https://covid-19-response.s3.eu-west-2.amazonaws.com/Dominic+Norton.jpg&s=200)    | [![FVCproductions](https://avatars1.githubusercontent.com/u/4284691?v=3&s=200)](http://fvcproductions.com) | [![FVCproductions](https://avatars1.githubusercontent.com/u/4284691?v=3&s=200)](http://fvcproductions.com)  | [![FVCproductions](https://avatars1.githubusercontent.com/u/4284691?v=3&s=200)](http://fvcproductions.com)  |[![FVCproductions](https://avatars1.githubusercontent.com/u/4284691?v=3&s=200)](http://fvcproductions.com)  |
-| <a href="http://github.com/fvcproductions" target="_blank">`github.com/fvcproductions`</a> | <a href="http://github.com/fvcproductions" target="_blank">`github.com/fvcproductions`</a> | <a href="http://github.com/fvcproductions" target="_blank">`github.com/fvcproductions`</a> |
-
+| [![Dominic Norton](https://covid-19-response.s3.eu-west-2.amazonaws.com/Dominic+Norton.jpg&s=200)](http://fvcproductions.com) | [![Monique Ho](https://covid-19-response.s3.eu-west-2.amazonaws.com/Monique+Ho.jpg&s=200)](http://fvcproductions.com)  | [![FVCproductions](https://avatars1.githubusercontent.com/u/4284691?v=3&s=200)](http://fvcproductions.com)  | [![FVCproductions](https://avatars1.githubusercontent.com/u/4284691?v=3&s=200)](http://fvcproductions.com)  |
+| :---: |:---:| :---:|:---:|
 
 <img src="https://covid-19-response.s3.eu-west-2.amazonaws.com/Dominic+Norton.jpg" alt="Dominic Norton" width="18%"></img><img src="https://covid-19-response.s3.eu-west-2.amazonaws.com/Monique+Ho.jpg" alt="Monique Ho" width="18%"></img><img src="https://covid-19-response.s3.eu-west-2.amazonaws.com/placeholder.jpg" alt="James Kaguima" width="18%"></img> <img src="https://covid-19-response.s3.eu-west-2.amazonaws.com/placeholder.jpg" alt="Markus Pilkington" width="18%"></img><img src="https://covid-19-response.s3.eu-west-2.amazonaws.com/placeholder.jpg" alt="Kieron Scully" width="18%"></img><img src="https://covid-19-response.s3.eu-west-2.amazonaws.com/placeholder.jpg" alt="Oluwaseun Adebambo" width="18%"></img><img src="https://covid-19-response.s3.eu-west-2.amazonaws.com/placeholder.jpg" alt="Tejiri Matthew" width="18%"></img><img src="https://covid-19-response.s3.eu-west-2.amazonaws.com/placeholder.jpg" alt="Benjamin Ikeji" width="18%"></img><img src="https://covid-19-response.s3.eu-west-2.amazonaws.com/Paul+Wennekes.jpg" alt="Paul Wennekes" width="18%"></img>
 
