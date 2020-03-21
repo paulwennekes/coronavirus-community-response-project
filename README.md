@@ -54,9 +54,6 @@ Please read [CONTRIBUTING.md](https://github.com/dominiconorton/coronavirus-comm
 | <a href="LINK" target="_blank"><img src="https://covid-19-response.s3.eu-west-2.amazonaws.com/placeholder.jpg" alt="Oluwaseun Adebambo" width="150"> | <a href="LINK" target="_blank"><img src="https://covid-19-response.s3.eu-west-2.amazonaws.com/placeholder.jpg" alt="Tejiri Matthew" width="150"> | <a href="LINK" target="_blank"><img src="https://covid-19-response.s3.eu-west-2.amazonaws.com/placeholder.jpg" alt="Benjamin Ikeji" width="150"> | <a href="https://github.com/paulwennekes" target="_blank"><img src="https://covid-19-response.s3.eu-west-2.amazonaws.com/Paul+Wennekes.jpg" alt="Paul Wennekes" width="150"> | |
 |<a href="LINK" target="_blank">`Oluwaseun Adebambo`</a>|<a href="LINK" target="_blank">`Tejiri Matthew`</a>|<a href="LINK" target="_blank">`Benjamin Ikeji`</a>|<a href="https://github.com/paulwennekes" target="_blank">`Paul Wennekes`</a>|<a href="LINK" target="_blank"></a>|
 
-
-https://github.com/paulwennekes
-
 ## Resources
 
 [Coronavirus Tech Handbook](https://coronavirustechhandbook.com) - "This handbook exists to provide a space where technologists, specialists, civic organisations and public & private institutions can collaborate to make a rapid and sophisticated response to the outbreak. "
